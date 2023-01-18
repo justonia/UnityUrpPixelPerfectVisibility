@@ -12,7 +12,7 @@ The implementation is as modern of an approach as possible in URP:
 - No-domain reload safe
 - Supports `2^16` unique renderers, though due to current limitations in URP batching each *non-culled* (frustum or Umbra) renderer has a draw call cost.
 
-This package is completely free for use in commercial projects and can be embedded in Asset Store assets, but it cannot be directly sold on the Asset Store itself. Email me at my username at gmail.com if there are any questions or concerns about this.
+This package is completely free for use in commercial projects (MIT) and can be embedded in Asset Store assets.
 
 <br>
 
